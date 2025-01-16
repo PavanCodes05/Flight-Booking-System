@@ -1,3 +1,3 @@
 module.exports = {
-    AppError: require("./errors/app-error.js");
+    AppError: require("./errors/app-error.js")
 }
